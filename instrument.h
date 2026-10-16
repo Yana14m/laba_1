@@ -101,4 +101,4 @@ public:
 
     std::string getTextDefect() const {return text_defect;}
     void setTextDefect(const std::string& t_d) {text_defect=t_d;} 
-};
+}; 

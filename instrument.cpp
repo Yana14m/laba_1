@@ -197,3 +197,4 @@ istream& Wind::input(istream& in) {
     return in;
 }
 
+ 
