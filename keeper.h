@@ -15,4 +15,4 @@ public:
     void saveToFile(const std::string& file) const;
     void loadToFile(const std::string& file);
     int getSize() const {return size;}
-};
+}; 
